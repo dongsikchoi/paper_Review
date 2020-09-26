@@ -9,5 +9,7 @@ def mul(a,b):
 
 def div(a,b):
 
-    return a / b # 주석
+    return a / b # 주석.
 
+def sum(a,b,c):
+    return a+b+c
